@@ -7,7 +7,7 @@
 
 ## Sobre o Projeto
 
-Este projeto um estudo de processos executados em background controlados pelo Bull, que gerencia e executa as filas de Jobs. O objetivo deste projeto é o aprofundamento no assunto e construção de Know How.
+Este projeto é um estudo de processos executados em background controlados pelo Bull, que gerencia e executa as filas de Jobs. O objetivo deste projeto é o aprofundamento no assunto e construção de Know How.
 
 ## Feito com
 
